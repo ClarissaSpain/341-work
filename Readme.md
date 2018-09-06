@@ -2,10 +2,10 @@
 ## Clarissa Spain
 
 I am a Media Arts major.
-Fortunately, I took a creative coding class last semester that has already introduced me to atom and markdown text; however, we only used p5.js.
-- I found it very interesting that the existence of the internet creates CO2 emissons.
+Fortunately, I took a creative coding class last semester that has already introduced me to Atom and markdown text; however, we only used p5.js. So, HTML and CSS will definitely be a learning curb, but I'm excited. I'm extremely interested in creating websites. 
+- I found it very interesting that the existence of the internet creates **tons** of CO2 emissons.
 -  Something that was also touched in our videos this week, and talked about in my previous media classes, is the fact that the internet technically isn't owned or controlled by anybody. It's a free spirit that many appreciate. However, others argue that the internet should be controlled and monitored like the movie industry or the radio industry.
-- The first message every sent was "LO"
+- The first message every sent was "LO".
 ---
 ### My Resources
 
