@@ -14,9 +14,9 @@ Since, project 2 I've been referring to this  [website][12261ce5] for laying out
 
 ### Screenshot Of Work
 Here's my not so detailed sketch of what I was imagining for the css grid of the website. Every colomn would be a different color from my palette, but on top of that I would include one of the images provided for the project. I have no idea why I drew it like a triangle, since it's actually a star. My final design ended up not working out as I imagined, since I wasn't able to use css grid.
-![Quick Wireframe/ sketch](/images/screenshot.jpg)
+![Quick Wireframe/ sketch](images/screenshot.jpg)
 
 Actually looks like this, for clarification!
-![Star png](/images/1950s-04.png)
+![Star png](images/1950s-04.png)
 
   [12261ce5]: https://css-tricks.com/snippets/css/complete-guide-grid/ "css grid"
