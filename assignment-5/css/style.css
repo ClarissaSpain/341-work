@@ -1,0 +1,46 @@
+body {
+  height: 100%;
+  margin: 0;
+  font-family: acumin-pro, sans-serif;
+  background-color: #fff9e6;
+}
+h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60;
+  margin-left: 10px;
+  color: #414042;
+}
+.square {
+  display:grid;
+  grid-template-columns:repeat(4, 1fr);
+  grid-gap:0.5em;
+  grid-auto-rows: minmax(50px, auto);
+  padding: 1em;
+  margin-top: 2em;
+  box-shadow: 0px 5px 10px 5px grey;
+}
+#Red {
+  background-color: #EA5652;
+}
+#Yellow {
+  background-color: #EEC003;
+}
+#Blue {
+  background-color: #78E2E0;
+}
+
+.image {
+  padding: 25px;
+  position: relative;
+  display: flex;
+  top: 25%;
+  left: 30%;
+
+}
+
+.text {
+  font-style: normal;
+  font-weight: 300;
+  padding: 1em;
+}
