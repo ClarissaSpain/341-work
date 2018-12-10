@@ -1,0 +1,52 @@
+body {
+background-image:url("../images/lace.png");
+background-repeat: repeat;
+}
+
+.textcontainer {
+  background-color: rgba(255, 255, 255, 0.6);
+  margin-left: 20em;
+  margin-right: 20em;
+  margin-top: 1em;
+  padding: 1em;
+}
+h1{
+  font-family: 'adorn-garland', sans-serif;
+}
+.textfont {
+font-family: 'marco', serif;
+}
+
+.spacing {
+  text-indent: 1.5em;
+  line-height: 1.7em;
+}
+.centered {
+  position: relative;
+  left: 50%;
+  margin-left: -100px;
+  padding: 1em;
+}
+
+.button {
+   border-top: 1px solid #f797dd;
+   background: #d665bc;
+   padding: 8px 16px;
+   border-radius: 6px;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 24px;
+   font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #4a2878;
+   background: #4a2878;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #5c1b5a;
+   background: #5c1b5a;
+   }
