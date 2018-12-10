@@ -10,4 +10,4 @@ I decided to look into novel/ fairytale style fonts. That's how I stumbled upon
 ### Summary
 I had a great time creating this website, I had a bit of trouble getting my background tile to show up on my website. I believe it came down to some issues with linking etc. The company the link went to for my project seemed to have been taken down, so I had to find another website about The Princess Bride.
 
-![Screenshot of workflow](/images/screenshot.png)
+![Screenshot of workflow](./images/screenshot.png)
